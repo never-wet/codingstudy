@@ -1,0 +1,42 @@
+오늘은 내가 직접 웹사이트를 만들어 보았다. 명령어는 이러하다.
+
+<html>
+<body background="">
+<h1>junha의 첫 웹사이트 들어가기 </h1>
+<a href="https://youtube.com">유튜브</a>
+
+<img src="https://cdn.imweb.me/thumbnail/20210412/0ffff71f42dca.png" width="100px" height="80px"><br>
+
+<a href="https://apple.com"> 애플 홈페이지</a>
+<img src="http://t1.daumcdn.net/brunch/service/user/P9h/image/sR7PN1eZ70y5YgfR0zmcvqJNgSg.jpg" width="100px" height="80px"><br>
+<a href="https://watv.org">우리 교회 홈페이지</a>
+<img src="https://yt3.ggpht.com/ytc/AKedOLQqXmPgIRGcCxO1ms5r3v1JcGN8GoZeapsfpX8Gyw=s900-c-k-c0x00ffffff-no-rj" width="100px" height="80px">
+<br>
+<a href="https://www.miricanvas.com/design">미리 켄버스</a>
+<img src="https://resource.miricanvas.com/image/bi/miricanvas_sq.png" width="100px" height="80px">
+<br>
+<a href="https://papago.naver.com/">파파고</a>
+<img src="https://papago.naver.com/static/img/papago_og.png" width="100px" height="80px">
+
+
+
+
+
+
+<h2> 코딩ㄷㄷ</h2>
+안녕 클레이파트라 새상에서 제일 예쁜 포테이토 칩!
+</body>
+</html>
+
+<img sre="">는 자신이 원하는 그림을 넣을수있는 명령어 이다. 그림에 주소로도 할수있고 자신에 파일에 들어있는 문서로도 할수있다.
+<a href="https://자신이 원하는 웹 사이트>자신이 원하는 이름<a/> 이 명령어는 자신이 원하는 웹사이트에 들어가게 해주는 명령어다.
+<br>은 자신이 어떤 글 아래쪽에 이 글이나 사지을 넣고 싶을때 하는 명령어이다. 4번을 하면 4칸을 내려가게 해준다. 
+<h1>자신이 원하는 글</h1>는 자신이 원하는 글을 큰 글자로 보여준다. (<h2>이렇게 <h2,3,4,5,6,7,8,9,>이런 식으로 숫자을 매겨 하는 명령어이다. 
+<h2> 어렇게 안하고  원하는 글을 쓰면 작은 글씨로 나온다.
+<body>는에는 배경을 심을 수 있다. <body background=""> 이 "" 가운데에 자신이 원하는 배경에 주소를 적으면 끝
+항상 마지막에는 </body> 이렇게 해주어야한다.
+그리고 항상 코딩을 시작할때는 <html>이 들어 가고 코딩을 다 했으면 </html>을 넣어 주어야 한다. 
+마지막으로  width="원하는 숫자"px는 그림 크기를 정하는 명령어이다. 또 height="원하는 숫자px" 도 크기를 정하는 명령어이다. height는 높이이다.
+2021,10,25 일기 끝
+
+음 자랑스럽다 나 자신아!
